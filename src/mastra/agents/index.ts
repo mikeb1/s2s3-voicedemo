@@ -1,9 +1,11 @@
 import { openai } from "@ai-sdk/openai";
 import { Agent } from "@mastra/core/agent";
-
 import { playersTool, teamsTool } from "../tools";
 import { browserTool } from "../tools/browser";
 import { OpenAIRealtimeVoice } from "@mastra/voice-openai-realtime";
+import dotenv from "dotenv";
+
+dotenv.config();
 
 export const nbaAgent = new Agent({
   name: "NBA Agent",
