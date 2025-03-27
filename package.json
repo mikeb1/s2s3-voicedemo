@@ -14,7 +14,6 @@
     "@mastra/core": "0.7.0-alpha.3",
     "@mastra/node-speaker": "latest",
     "@mastra/voice-openai-realtime": "0.1.0-alpha.3",
-    "@mastra/mcp": "latest",
     "chalk": "^5.4.1",
     "fluent-ffmpeg": "^2.1.2",
     "fluent-ffmpeg-multistream": "^1.0.0",
