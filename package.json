@@ -18,7 +18,7 @@
     "dotenv": "^16.4.7",
     "fluent-ffmpeg": "^2.1.2",
     "fluent-ffmpeg-multistream": "^1.0.0",
-    "nba": "^4.15.0",
+    "nba": "^4.3.0",
     "node-mic": "^1.0.1",
     "playwright": "^1.51.1",
     "playwright-core": "^1.51.1"
